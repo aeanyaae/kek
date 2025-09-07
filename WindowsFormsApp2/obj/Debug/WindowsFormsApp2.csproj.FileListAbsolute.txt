@@ -1,0 +1,15 @@
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\bin\Debug\BusinessLogic.dll
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\bin\Debug\Model.dll
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\bin\Debug\BusinessLogic.pdb
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\bin\Debug\Model.pdb
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\anna_\source\repos\ConsoleAppTest\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
